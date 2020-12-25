@@ -1,0 +1,9 @@
+include ':basebusiness'
+include ':utils'
+include ':m_registered'
+include ':i_registered'
+include ':m_login'
+include ':i_login'
+include ':base'
+include ':app'
+rootProject.name = "ComponentizationDemo"
