@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">base</string>
-    <string name="show_result">展示登陆结果</string>
-    <string name="goto_login">去登陆</string>
-</resources>
